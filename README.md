@@ -4,13 +4,18 @@ Mobile App Development
 
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+
   This project actually had a few options to choose from when deciding the type of app to design and build. I chose the weight tracking app idea and really enjoyed it. I really wanted to focus on simplicity, digital minimalism, and easy functionality. There are all kinds of specialized apps that also track weight, but this one is only for tracking weights and nothing else. This app was designed to help the user not be glued to their screen all day. This app allows the user to track a weight or two for the day and that be the whole screen time required for that task. The user can then live their life and enjoy the time that is meaningful to them. The users I have identified to use this app are the following: Users generally monitoring weight for their health, fitness enthusiasts, and users looking to change their weight with a goal weight in mind. People sometimes have a hard time keeping their weight steady and need help monitoring it. General health is a great way to use this tracking app. These users are focused on maintaining a healthy lifestyle. This app can help them track their weight and make sure they are on a steady maintenance trajectory for a healthy lifestyle. Another category of users are enthusiastic about their fitness. They have weight gains they specifically want to reach. Each time they add a new weight, they may have went up on plates at the gym that month during bench presses or deadlifts, for example. They want to track their weight and are excited about it because they want to see visual progress of all of the hard work they have put into their work outs. This app can help them see their progress over time. The last category of user I am going to cover are those specifically looking to change their weight and have a goal in mind. These users are typically wanting to lose weight and know what weight they specifically want to reach. These users are looking for a way to keep them on track and accountable with each weigh in. This app can help them stay motivated in their weight goals and can even notify them as they hit their goals.
 There are plenty of reasons why a user might download this weight tracking app. The user will add in a new weight daily, as well as, a goal weight which will not be changed until the user reaches it. The user will know they reached their goal weight with a notification on their device. Grids and tables will make it very easy for the user to enter internal data. The back end will store all information needed so that the user has a very quick and easy experience with it. 
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+
 How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+
 In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
 
