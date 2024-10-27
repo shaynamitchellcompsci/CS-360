@@ -17,10 +17,13 @@ How did you approach the process of coding your app? What techniques or strategi
   I really honed in on what my users need. I made my personal expectation clear from the beginning including how I wanted to launch the app. I ultimatley wanted the user to be able to live a more digital minimalist life. I want to improve their relationship with technology. I want people to be able to spend more time outside rather than being glued to their screens. I designed my app with this in mind, allowing the user to spend as little time as possible on it. The users mental health is my top priority.
 
 How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+  Testing my app revealed that I had a lot more work than I realized. I kept thinking I had every screen was functional, and then the app would crash each time I ran it. It took a long time to get the results I wanted. Testing is extrmely important, because you want to make sure that what you create is exceptional for the user. I would also notice during testing that buttons didn't look right or act right. It was a lot of work. 
 
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+  When thinking of the full design and build process, I honestly had no idea how hard it would be to create a final product. I had to innovate when it came to my inital pseudocode and flow chart. My app is completely different than what I had originally designed. I think this is wonderful though, because the final product was better that I had imagined. I also understood the requirements immensely more after actually working on the project. When first reading about the requirements, I did not fully understand what I would be needing to do. I initially created buttons that were not big enough or the correct shapes. I had to innovate and learn how to create functional buttons that visually were stunning with great functionality. 
 
 In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+  I honestly think that design stood out in this process. I have now confirmed that design is so special to me. I have honestly ignored this aspect of myself, but I should have been embracing it all along. I am a photographer, and I should have know that my creativity would pop up in all of my life's endeavors. I now need to find an area of this industry where I thrive. I am excited to see where that ends up being! 
 
 
 
