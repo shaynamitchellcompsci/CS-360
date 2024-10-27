@@ -1,6 +1,8 @@
 # CS-360
 Mobile App Development
 
+"Weight."
+
 
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
